@@ -2,6 +2,7 @@
 js-for-react-native-11146019 project
 
 ID:11146019
+
 //TASK 1: The processArray function takes an array of numbers as an argument. It uses the map method to iterate over each number in the array. If the number is even, it squares the number. If the number is odd, it triples the number. The function returns a new array with the modified numbers.
 
 The code also includes a prompt where the user can enter an array of numbers (comma-separated). It then converts the input into an array of numbers using the split method and map function. Finally, it logs the result of calling the processArray function with the user's input.
